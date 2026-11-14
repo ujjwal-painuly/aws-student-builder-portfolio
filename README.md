@@ -1,16 +1,57 @@
-# React + Vite
+# Ujjwal Painuly — Portfolio Prototype
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A secondary personal portfolio prototype built with **React 19** and **Vite**. It presents Ujjwal's software-development profile, technical skills, selected repositories and a small interactive DSA knowledge challenge.
 
-Currently, two official plugins are available:
+> **Primary public portfolio:** [ujjwal-painuly.github.io](https://ujjwal-painuly.github.io/ayushpainuly1234-ui/)  
+> This repository is a separate prototype; a public deployment for this React/Vite app has not been verified.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- Responsive portfolio sections for profile, skills, selected projects and contact
+- Project-category filters
+- Small interactive DSA question/answer challenge
+- Direct links to GitHub and LinkedIn
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tech stack
 
-## Expanding the Oxlint configuration
+- React 19
+- Vite
+- JavaScript (ES modules)
+- CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Selected repositories
+
+| Project | Actual technology | Repository |
+|---|---|---|
+| CivicFix | Node.js, Express.js, PostgreSQL, MongoDB; static HTML/CSS/JavaScript UI | [Source](https://github.com/ujjwal-painuly/civicfix) |
+| Ujjwal Music Player | HTML, CSS, JavaScript, HTML Audio API | [Source](https://github.com/ujjwal-painuly/ujjwal-music-player) |
+| Advanced Java DSA | Java, graphs, trees, dynamic programming and backtracking | [Source](https://github.com/ujjwal-painuly/advanced-java-dsa) |
+
+The CivicFix and music-player hosted demo URLs are intentionally not advertised here because they were unavailable during the latest check.
+
+## Run locally
+
+Requirements: Node.js 20 or newer and npm.
+
+```bash
+npm install
+npm run dev
+```
+
+Vite prints the local development URL in the terminal.
+
+## Quality checks
+
+```bash
+npm run lint
+npm run build
+```
+
+There is currently no automated unit-test suite or GitHub Actions CI workflow configured for this prototype.
+
+## Contact
+
+- **GitHub:** [ujjwal-painuly](https://github.com/ujjwal-painuly)
+- **LinkedIn:** [Code With Ujjwal](https://www.linkedin.com/in/code-with-ujjwal-83828a352/)
+- **Email:** ujjwal.painuly.dev@gmail.com
+- **Primary portfolio:** [Open website](https://ujjwal-painuly.github.io/ayushpainuly1234-ui/)
