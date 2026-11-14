@@ -7,10 +7,10 @@ const projects = [
     name: 'CivicFix',
     category: 'Full Stack',
     description:
-      'A campus route planner and civic issue platform using graph algorithms to help users find efficient routes and manage issues.',
-    stack: 'Java · Spring Boot · React · PostgreSQL',
-    github: 'https://github.com/ayushpainuly1234-ui/civicfix',
-    demo: 'https://civicfix-7q99.onrender.com',
+      'A civic issue reporting and repair-planning prototype that explores how route constraints and limited resources affect repair priorities.',
+    stack: 'Node.js · Express.js · PostgreSQL · MongoDB',
+    github: 'https://github.com/ujjwal-painuly/civicfix',
+    demo: '',
   },
   {
     name: 'Ujjwal Music Player',
@@ -18,8 +18,8 @@ const projects = [
     description:
       'A Spotify-inspired music player with playlist controls, audio playback and a responsive interface.',
     stack: 'HTML · CSS · JavaScript',
-    github: 'https://github.com/ayushpainuly1234-ui/ujjwal-music-player',
-    demo: 'https://ayushpainuly1234-ui.github.io/ujjwal-music-player/',
+    github: 'https://github.com/ujjwal-painuly/ujjwal-music-player',
+    demo: '',
   },
   {
     name: 'Advanced Java DSA',
@@ -27,7 +27,7 @@ const projects = [
     description:
       'A structured collection of Java implementations covering advanced data structures and algorithms.',
     stack: 'Java · Graphs · DP · Trees · Backtracking',
-    github: 'https://github.com/ayushpainuly1234-ui/advanced-java-dsa',
+    github: 'https://github.com/ujjwal-painuly/advanced-java-dsa',
     demo: '',
   },
 ]
@@ -81,7 +81,7 @@ function App() {
         </div>
         <a
           className="nav-button"
-          href="https://github.com/ayushpainuly1234-ui"
+          href="https://github.com/ujjwal-painuly"
           target="_blank"
           rel="noreferrer"
         >
@@ -108,7 +108,7 @@ function App() {
           </div>
           <div className="hero-meta">
             <span>📍 Dehradun, India</span>
-            <span>🎓 BCA Graduate</span>
+            <span>🎓 BCA 2026 Graduate</span>
           </div>
         </div>
 
@@ -151,7 +151,7 @@ function App() {
               with hands-on development. I believe strong fundamentals
               and the ability to keep learning matter most.
             </p>
-            <a className="text-link" href="https://github.com/ayushpainuly1234-ui">
+            <a className="text-link" href="https://github.com/ujjwal-painuly">
               Explore my GitHub profile ↗
             </a>
           </div>
@@ -233,12 +233,12 @@ function App() {
         <div className="section-label">05 / GET IN TOUCH</div>
         <h2>Have an idea?<br /><span>Let's build something.</span></h2>
         <p>I'm interested in software development, engineering opportunities and learning from great teams.</p>
-        <a className="primary-button" href="mailto:ujjwalpainuly@gmail.com">
+        <a className="primary-button" href="mailto:ujjwal.painuly.dev@gmail.com">
           Say Hello ↗
         </a>
         <div className="social-links">
-          <a href="https://github.com/ayushpainuly1234-ui" target="_blank" rel="noreferrer">GitHub ↗</a>
-          <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">LinkedIn ↗</a>
+          <a href="https://github.com/ujjwal-painuly" target="_blank" rel="noreferrer">GitHub ↗</a>
+          <a href="https://www.linkedin.com/in/code-with-ujjwal-83828a352/" target="_blank" rel="noreferrer" target="_blank" rel="noreferrer">LinkedIn ↗</a>
         </div>
       </section>
 
