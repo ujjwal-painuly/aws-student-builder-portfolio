@@ -1,21 +1,22 @@
-# Ujjwal Painuly — Developer Portfolio
+# Ujjwal Painuly — Software Engineering Portfolio
 
-A personal portfolio prototype built with **React 19** and **Vite**. It presents my software-development profile, technical skills, selected projects and an interactive DSA knowledge challenge.
+A personal portfolio built with **React 19** and **Vite**, showcasing software projects, technical skills, problem-solving practice, and creative technology interests.
 
 ## About
 
-I am a BCA graduate from Tula's Institute, Dehradun, focused on software development, Java, data structures and algorithms, backend APIs and full-stack projects. I am interested in Software Development Engineer (SDE) opportunities.
+I am a software developer focused on problem-solving, backend engineering, and building practical full-stack applications. I have solved **700+ coding problems** through online judges and independent practice. I also explore **3D animation** and visual storytelling alongside software development.
 
 ## Technical skills
 
-- **Languages:** Java, C, C++, Python, JavaScript
+- **Languages:** C, C++, Java, JavaScript, Python
 - **Frontend:** HTML5, CSS3, JavaScript, React
 - **Backend:** Node.js, Express.js, REST APIs
 - **Databases:** MongoDB, PostgreSQL
 - **DSA / CS:** Arrays, strings, linked lists, trees, graphs, BFS, DFS, shortest paths, dynamic programming, backtracking, greedy algorithms, Union-Find, hashing and sorting
 - **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Render, Neon, MongoDB Atlas
+- **Creative technology:** 3D animation, visual storytelling
 
-*Skills reflect hands-on learning and project work; proficiency varies by technology.*
+*Skills reflect hands-on learning, experimentation and project work; proficiency varies by technology.*
 
 ## Featured projects
 
@@ -26,6 +27,13 @@ I am a BCA graduate from Tula's Institute, Dehradun, focused on software develop
 | Advanced Java DSA | Graphs, dynamic programming, trees, backtracking | [Source](https://github.com/ujjwal-painuly/advanced-java-dsa) |
 | LeetCode Solutions | Topic-organised coding practice | [Source](https://github.com/ujjwal-painuly/leetcode-solutions) |
 | Ujjwal Music Player | Browser audio player and Node.js/Express API upgrade | [Source](https://github.com/ujjwal-painuly/ujjwal-music-player) |
+
+## Problem solving
+
+**700+ coding problems solved**, with practice across data structures, algorithms, dynamic programming, graphs, trees, and optimisation.
+
+- **LeetCode:** [Code With Ujjwal](https://leetcode.com/u/WqmLOG8Fcr/)
+- **Solutions repository:** [leetcode-solutions](https://github.com/ujjwal-painuly/leetcode-solutions)
 
 ## Connect
 
