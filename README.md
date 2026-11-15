@@ -1,22 +1,38 @@
 # Ujjwal Painuly — Software Engineering Portfolio
 
-A personal portfolio built with **React 19** and **Vite**, showcasing software projects, technical skills, problem-solving practice, and creative technology interests.
+A personal portfolio built with **React 19** and **Vite**, showcasing software projects, technical skills, and problem-solving practice.
 
 ## About
 
-I am a software developer focused on problem-solving, backend engineering, and building practical full-stack applications. I have solved **700+ coding problems** through online judges and independent practice. I also explore **3D animation** and visual storytelling alongside software development.
+I am a software developer focused on problem-solving, backend engineering, and building practical full-stack applications. I have solved **700+ coding problems** through online judges and independent practice.
 
-## Technical skills
+## Tech stack
 
-- **Languages:** C, C++, Java, JavaScript, Python
-- **Frontend:** HTML5, CSS3, JavaScript, React
-- **Backend:** Node.js, Express.js, REST APIs
-- **Databases:** MongoDB, PostgreSQL
-- **DSA / CS:** Arrays, strings, linked lists, trees, graphs, BFS, DFS, shortest paths, dynamic programming, backtracking, greedy algorithms, Union-Find, hashing and sorting
-- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Render, Neon, MongoDB Atlas
-- **Creative technology:** 3D animation, visual storytelling
+### Languages
 
-*Skills reflect hands-on learning, experimentation and project work; proficiency varies by technology.*
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python&perline=5" alt="C, C++, Java, JavaScript and Python icons" />
+</p>
+
+### Frontend & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&perline=5" alt="HTML, CSS, React, Node.js and Express icons" />
+</p>
+
+### Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,vscode,idea&perline=6" alt="MongoDB, PostgreSQL, Git, GitHub, VS Code and IntelliJ IDEA icons" />
+</p>
+
+### Data Structures & Algorithms
+
+**700+ coding problems solved** across arrays, strings, linked lists, trees, graphs, BFS, DFS, shortest paths, dynamic programming, backtracking, greedy algorithms, Union-Find, hashing, and sorting.
+
+[LeetCode Profile](https://leetcode.com/u/WqmLOG8Fcr/) · [LeetCode Solutions Repository](https://github.com/ujjwal-painuly/leetcode-solutions)
+
+*Skills reflect hands-on learning and project work; proficiency varies by technology.*
 
 ## Featured projects
 
@@ -26,14 +42,7 @@ I am a software developer focused on problem-solving, backend engineering, and b
 | OpenIssue Backend | REST APIs, authentication, permissions, MongoDB, validation | [Source](https://github.com/ujjwal-painuly/openissue-backend) |
 | Advanced Java DSA | Graphs, dynamic programming, trees, backtracking | [Source](https://github.com/ujjwal-painuly/advanced-java-dsa) |
 | LeetCode Solutions | Topic-organised coding practice | [Source](https://github.com/ujjwal-painuly/leetcode-solutions) |
-| Ujjwal Music Player | Browser audio player and Node.js/Express API upgrade | [Source](https://github.com/ujjwal-painuly/ujjwal-music-player) |
-
-## Problem solving
-
-**700+ coding problems solved**, with practice across data structures, algorithms, dynamic programming, graphs, trees, and optimisation.
-
-- **LeetCode:** [Code With Ujjwal](https://leetcode.com/u/WqmLOG8Fcr/)
-- **Solutions repository:** [leetcode-solutions](https://github.com/ujjwal-painuly/leetcode-solutions)
+| Ujjwal Music Player | Browser-based music player | [Source](https://github.com/ujjwal-painuly/ujjwal-music-player) |
 
 ## Connect
 
@@ -62,7 +71,3 @@ npm run build
 ```
 
 There is currently no automated unit-test suite or GitHub Actions CI workflow configured for this prototype.
-
-## YouTube
-
-I share my coding journey, Data Structures & Algorithms, LeetCode problem-solving, Java learning and practical software-development learnings on [Code With Ujjwal](https://www.youtube.com/@Ujjwalpainuly09).
