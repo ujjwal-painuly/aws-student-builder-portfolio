@@ -1,33 +1,39 @@
-# Ujjwal Painuly — Portfolio Prototype
+# Ujjwal Painuly — Developer Portfolio
 
-A secondary personal portfolio prototype built with **React 19** and **Vite**. It presents Ujjwal's software-development profile, technical skills, selected repositories and a small interactive DSA knowledge challenge.
+A personal portfolio prototype built with **React 19** and **Vite**. It presents my software-development profile, technical skills, selected projects and an interactive DSA knowledge challenge.
 
-> **Primary public portfolio:** [ujjwal-painuly.github.io](https://ujjwal-painuly.github.io/ayushpainuly1234-ui/)  
-> This repository is a separate prototype; a public deployment for this React/Vite app has not been verified.
+## About
 
-## Features
+I am a BCA graduate from Tula's Institute, Dehradun, focused on software development, Java, data structures and algorithms, backend APIs and full-stack projects. I am interested in Software Development Engineer (SDE) opportunities.
 
-- Responsive portfolio sections for profile, skills, selected projects and contact
-- Project-category filters
-- Small interactive DSA question/answer challenge
-- Direct links to GitHub and LinkedIn
+## Technical skills
 
-## Tech stack
+- **Languages:** Java, C, C++, Python, JavaScript
+- **Frontend:** HTML5, CSS3, JavaScript, React
+- **Backend:** Node.js, Express.js, REST APIs
+- **Databases:** MongoDB, PostgreSQL
+- **DSA / CS:** Arrays, strings, linked lists, trees, graphs, BFS, DFS, shortest paths, dynamic programming, backtracking, greedy algorithms, Union-Find, hashing and sorting
+- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Render, Neon, MongoDB Atlas
 
-- React 19
-- Vite
-- JavaScript (ES modules)
-- CSS
+*Skills reflect hands-on learning and project work; proficiency varies by technology.*
 
-## Selected repositories
+## Featured projects
 
-| Project | Actual technology | Repository |
+| Project | What it demonstrates | Repository |
 |---|---|---|
-| CivicFix | Node.js, Express.js, PostgreSQL, MongoDB; static HTML/CSS/JavaScript UI | [Source](https://github.com/ujjwal-painuly/civicfix) |
-| Ujjwal Music Player | HTML, CSS, JavaScript, HTML Audio API | [Source](https://github.com/ujjwal-painuly/ujjwal-music-player) |
-| Advanced Java DSA | Java, graphs, trees, dynamic programming and backtracking | [Source](https://github.com/ujjwal-painuly/advanced-java-dsa) |
+| CivicFix | Dijkstra, 0/1 Knapsack DP, Held-Karp DP, Node.js, PostgreSQL, MongoDB | [Source](https://github.com/ujjwal-painuly/civicfix) |
+| OpenIssue Backend | REST APIs, authentication, permissions, MongoDB, validation | [Source](https://github.com/ujjwal-painuly/openissue-backend) |
+| Advanced Java DSA | Graphs, dynamic programming, trees, backtracking | [Source](https://github.com/ujjwal-painuly/advanced-java-dsa) |
+| LeetCode Solutions | Topic-organised coding practice | [Source](https://github.com/ujjwal-painuly/leetcode-solutions) |
+| Ujjwal Music Player | Browser audio player and Node.js/Express API upgrade | [Source](https://github.com/ujjwal-painuly/ujjwal-music-player) |
 
-The CivicFix and music-player hosted demo URLs are intentionally not advertised here because they were unavailable during the latest check.
+## Connect
+
+- **GitHub:** [ujjwal-painuly](https://github.com/ujjwal-painuly)
+- **LinkedIn:** [Code With Ujjwal](https://www.linkedin.com/in/code-with-ujjwal-83828a352/)
+- **YouTube:** [Code With Ujjwal — @Ujjwalpainuly09](https://www.youtube.com/@Ujjwalpainuly09)
+- **Email:** [ujjwal.painuly.dev@gmail.com](mailto:ujjwal.painuly.dev@gmail.com)
+- **Portfolio:** [Open portfolio](https://ujjwal-painuly.github.io/ayushpainuly1234-ui/)
 
 ## Run locally
 
@@ -49,9 +55,6 @@ npm run build
 
 There is currently no automated unit-test suite or GitHub Actions CI workflow configured for this prototype.
 
-## Contact
+## YouTube
 
-- **GitHub:** [ujjwal-painuly](https://github.com/ujjwal-painuly)
-- **LinkedIn:** [Code With Ujjwal](https://www.linkedin.com/in/code-with-ujjwal-83828a352/)
-- **Email:** ujjwal.painuly.dev@gmail.com
-- **Primary portfolio:** [Open website](https://ujjwal-painuly.github.io/ayushpainuly1234-ui/)
+I share my coding journey, Data Structures & Algorithms, LeetCode problem-solving, Java learning and practical software-development learnings on [Code With Ujjwal](https://www.youtube.com/@Ujjwalpainuly09).
