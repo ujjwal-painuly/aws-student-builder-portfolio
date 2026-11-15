@@ -1,13 +1,15 @@
 # Ujjwal Painuly
 
-**Software Developer | Java & DSA | Full-Stack Development**
+**Software Engineer | Problem Solving | Full-Stack Development**
 
-I am a BCA graduate from Tula's Institute, Dehradun, focused on software development, problem-solving and building practical applications. I enjoy working with Java, data structures and algorithms, backend APIs, and full-stack projects.
+I build software with a focus on clean problem-solving, practical engineering, and continuous learning. I enjoy turning complex ideas into reliable applications, exploring algorithms, and experimenting with creative technology.
 
-- 🔭 Building and improving full-stack applications
-- 🌱 Practising advanced DSA, algorithms and backend engineering
-- 💻 Interested in Software Development Engineer (SDE) opportunities
+- 💻 Solved **700+ coding problems** across online judges and independent practice
+- 🧠 Focused on algorithms, data structures, system thinking, and writing maintainable code
+- 🛠️ Building full-stack applications and backend services
+- 🎨 Exploring **3D animation** and visual storytelling alongside software development
 - 🎥 Sharing my coding journey on [YouTube — Code With Ujjwal](https://www.youtube.com/@Ujjwalpainuly09)
+- 🎯 Interested in Software Engineer / SDE opportunities
 
 ## Connect
 
@@ -19,7 +21,7 @@ I am a BCA graduate from Tula's Institute, Dehradun, focused on software develop
 
 ## Technical Skills
 
-**Languages:** Java, C, C++, Python, JavaScript
+**Programming Languages:** C, C++, Java, JavaScript, Python
 
 **Frontend:** HTML5, CSS3, JavaScript, React
 
@@ -27,11 +29,13 @@ I am a BCA graduate from Tula's Institute, Dehradun, focused on software develop
 
 **Databases:** MongoDB, PostgreSQL
 
-**Core CS & DSA:** Data Structures and Algorithms, Arrays, Strings, Linked Lists, Trees, Graphs, BFS, DFS, Shortest Paths, Dynamic Programming, Backtracking, Greedy Algorithms, Union-Find, Hashing, Sorting
+**Computer Science & Problem Solving:** Data Structures and Algorithms, Arrays, Strings, Linked Lists, Trees, Graphs, BFS, DFS, Shortest Paths, Dynamic Programming, Backtracking, Greedy Algorithms, Union-Find, Hashing, Sorting
 
 **Tools & Platforms:** Git, GitHub, VS Code, IntelliJ IDEA, Render, Neon, MongoDB Atlas
 
-*Skills reflect hands-on learning and project work; proficiency varies by technology.*
+**Creative Technology:** 3D Animation, Visual Storytelling
+
+*Skills reflect hands-on learning, experimentation, and project work; proficiency varies by technology.*
 
 ## Featured Projects
 
@@ -55,7 +59,7 @@ Java fundamentals, arrays, matrices and standalone problem-solving exercises.
 
 ## Problem Solving
 
-I practise algorithmic problem-solving on LeetCode, with a focus on Java and topics such as dynamic programming, graphs, arrays, strings, trees and optimisation.
+I have solved **700+ coding problems**, strengthening my approach to algorithm design, complexity analysis, edge cases, and implementation. My regular practice includes dynamic programming, graphs, arrays, strings, trees, and optimisation.
 
 - [LeetCode profile](https://leetcode.com/u/WqmLOG8Fcr/)
 - [LeetCode solutions repository](https://github.com/ujjwal-painuly/leetcode-solutions)
