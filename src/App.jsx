@@ -10,7 +10,7 @@ const projects = [
       'A civic issue reporting and repair-planning prototype that explores how route constraints and limited resources affect repair priorities.',
     stack: 'Node.js · Express.js · PostgreSQL · MongoDB',
     github: 'https://github.com/ujjwal-painuly/civicfix',
-    demo: '',
+    demo: 'https://civicfix-7q99.onrender.com/',
   },
   {
     name: 'Ujjwal Music Player',
@@ -19,7 +19,7 @@ const projects = [
       'A Spotify-inspired music player with playlist controls, audio playback and a responsive interface.',
     stack: 'HTML · CSS · JavaScript',
     github: 'https://github.com/ujjwal-painuly/ujjwal-music-player',
-    demo: '',
+    demo: 'https://ujjwal-painuly.github.io/ujjwal-music-player/',
   },
   {
     name: 'Advanced Java DSA',
@@ -33,7 +33,7 @@ const projects = [
 ]
 
 const skills = [
-  { title: 'Programming', items: ['Java', 'C'] },
+  { title: 'Programming', items: ['Java', 'C', 'C++', 'Python'] },
   { title: 'Backend', items: ['Node.js', 'Express.js', 'REST APIs'] },
   { title: 'Frontend', items: ['HTML', 'CSS', 'JavaScript', 'React'] },
   { title: 'Databases & Tools', items: ['PostgreSQL', 'MongoDB', 'Git', 'GitHub'] },
@@ -43,6 +43,7 @@ const skills = [
 function App() {
   const [activeFilter, setActiveFilter] = useState('All')
   const [challenge, setChallenge] = useState(0)
+  const [showAnswer, setShowAnswer] = useState(false)
 
   const filters = ['All', 'Full Stack', 'Web Development', 'Problem Solving']
   const visibleProjects =
@@ -215,15 +216,30 @@ function App() {
             <p>{challenges[challenge].question}</p>
             <button
               className="primary-button"
-              onClick={() => setChallenge((challenge + 1) % challenges.length)}
+              onClick={() => {
+                setChallenge((challenge + 1) % challenges.length)
+                setShowAnswer(false)
+              }}
             >
               Try Another Question ↗
             </button>
           </div>
           <div className="challenge-answer">
-            <span>REVEALED ANSWER</span>
-            <h3>{challenges[challenge].answer}</h3>
-            <p>{challenges[challenge].detail}</p>
+            {showAnswer ? (
+              <>
+                <span>ANSWER</span>
+                <h3>{challenges[challenge].answer}</h3>
+                <p>{challenges[challenge].detail}</p>
+              </>
+            ) : (
+              <>
+                <span>YOUR TURN</span>
+                <p>Think it through, then reveal the answer when you are ready.</p>
+                <button className="secondary-button" onClick={() => setShowAnswer(true)}>
+                  Reveal answer
+                </button>
+              </>
+            )}
             <small>Question {challenge + 1} of {challenges.length}</small>
           </div>
         </div>
@@ -238,7 +254,7 @@ function App() {
         </a>
         <div className="social-links">
           <a href="https://github.com/ujjwal-painuly" target="_blank" rel="noreferrer">GitHub ↗</a>
-          <a href="https://www.linkedin.com/in/code-with-ujjwal-83828a352/" target="_blank" rel="noreferrer" target="_blank" rel="noreferrer">LinkedIn ↗</a>
+          <a href="https://www.linkedin.com/in/code-with-ujjwal-83828a352/" target="_blank" rel="noreferrer">LinkedIn ↗</a>
         </div>
       </section>
 
