@@ -6,8 +6,8 @@ Personal portfolio and project hub focused on software engineering, Java, data s
 
 | Resource | Description | Link |
 |---|---|---|
-| Developer Portfolio | Main portfolio website | [Open portfolio](https://ujjwal-painuly.github.io/ayushpainuly1234-ui/) |
-| DSA Universe | Interactive roadmap with 443 questions, graph visualizer, Java code library and 3D project architecture | [Launch DSA Universe](https://ujjwal-painuly.github.io/ayushpainuly1234-ui/dsa-lab/) |
+| Developer Portfolio | Main portfolio website | [Open portfolio](https://ujjwal-painuly.github.io/ujjwal-portfolio/) |
+| DSA Universe | Interactive roadmap with 443 questions, graph visualizer, Java code library and 3D project architecture | [Launch DSA Universe](https://ujjwal-painuly.github.io/ujjwal-portfolio/dsa-lab/) |
 | LeetCode Profile | Code With Ujjwal | [Open LeetCode](https://leetcode.com/u/code_with_ujjwal26/) |
 | CivicFix | Civic issue reporting and repair-planning web app | [Open live app](https://civicfix-7q99.onrender.com/) |
 | OpenIssue API | Repository issue tracking and collaboration API | [API homepage](https://openissue-backend-5zye.onrender.com/) · [Health check](https://openissue-backend-5zye.onrender.com/api/v1/health) |
